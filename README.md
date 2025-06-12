@@ -1,5 +1,6 @@
 Hello there 👋
-I'm a passionate Roblox developer crafting immersive experiences with a focus on advanced animation systems, dynamic gameplay, and experimental mechanics. I'm currently pouring my energy into **GKR**, **GEngine**, and **AWKV5**, pushing Roblox to its limits.
+I'm a game developer crafting immersive experiences with a focus on advanced animation systems, dynamic gameplay, and experimental mechanics.
+I'm currently pouring my energy into Roblox with projects like **GKR**, **GEngine**, and **AWKV5**, pushing Roblox to its limits.
 
 ---
 
