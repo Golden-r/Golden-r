@@ -24,7 +24,7 @@ I'm currently pouring my energy into Roblox with projects like **GKR**, **GEngin
 ## Reach Me :
 
 - **Discord**: [golden_r]
-- **X**: [@goldenstive]
+
 
 ---
 
